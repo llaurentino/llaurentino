@@ -53,6 +53,5 @@
 
 <div align="center">
 
-📫 <b>Contato:</b> <a href="https://github.com/llaurentino">GitHub</a>
 
 </div>
