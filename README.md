@@ -19,24 +19,6 @@
 
 ---
 
-### 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>💈 Barbearia Site</h4>
-      <p>Site completo com agendamento via WhatsApp, visual preto/dourado, responsivo.</p>
-      <b>Stack:</b> HTML · CSS · JavaScript
-    </td>
-    <td width="50%">
-      <h4>🎵 Wavez</h4>
-      <p>Plataforma de streaming de música com autenticação, playlists, favoritos e painel admin.</p>
-      <b>Stack:</b> PHP · MySQL
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
