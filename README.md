@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ1Y2IwcmEweXh2YjhtMnFvcnBjdDM1dmhkNml3NXM0cTZodzd2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tDAyC0WWlrDMc/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzI5d29yZXI1bDBqc3l5eXpscjNyZW1qYnZxOWh3YXh1N3g5dHZyZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Era7aEMrYBvyg/200.webp" width="500" />
 
 </div>
 
@@ -53,11 +53,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-<div align="center">
-
-
-
-</div>
