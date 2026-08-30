@@ -38,22 +38,12 @@
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,php,mysql,html,css&theme=dark" />
-</a>
-
-</div>
-
-### ⚙️ Ferramentas
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,php,mysql,html,css,github,vscode,eclipse,idea&theme=dark" />
 </a>
 
 </div>
