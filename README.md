@@ -1,9 +1,7 @@
 # supreme-parakeet
 <div align="center">
 
-# 👋 E aí, eu sou o Luís
-
-### Estudante de Computação | Sempre aprendendo algo novo
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Lu%C3%ADs+%F0%9F%91%8B;Estudante+de+Computa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-llaurentino-181717?style=for-the-badge&logo=github)](https://github.com/llaurentino)
 ![Visitor Count](https://komarev.com/ghpvc/?username=llaurentino&color=blueviolet&style=for-the-badge)
@@ -16,7 +14,7 @@
 
 - 📍 Poços de Caldas, MG — Estudante de Computação no **IFSULDEMINAS**
 - 💻 Membro do **SKYBYTE**, projeto de extensão que criou um portal educacional gratuito de informática
-- 🌱 Aprendendo Python, PHP e MySQL na prática, através de projetos reais
+- 🌱 Aprendendo na prática através de projetos reais
 - 🎯 Curioso por natureza, topo qualquer desafio novo que apareça pelo caminho
 
 ---
@@ -44,12 +42,12 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -60,6 +58,7 @@
 <div align="center">
 
 ![Luís's GitHub stats](https://github-readme-stats.vercel.app/api?username=llaurentino&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llaurentino&theme=radical)
 
 </div>
 
