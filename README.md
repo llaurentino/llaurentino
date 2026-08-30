@@ -17,8 +17,13 @@
 - 🌱 Aprendendo na prática através de projetos reais
 - 🎯 Curioso por natureza, topo qualquer desafio novo que apareça pelo caminho
 
----
+<div align="center">
 
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ1Y2IwcmEweXh2YjhtMnFvcnBjdDM1dmhkNml3NXM0cTZodzd2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tDAyC0WWlrDMc/giphy.gif)
+
+</div>
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -52,6 +57,7 @@
 ---
 
 <div align="center">
+
 
 
 </div>
