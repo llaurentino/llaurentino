@@ -1,7 +1,7 @@
 # supreme-parakeet
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Lu%C3%ADs+%F0%9F%91%8B;Estudante+de+Computa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Lu%C3%ADs+%F0%9F%91%8B;Estudante+de+Inform%C3%A1tica;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-llaurentino-181717?style=for-the-badge&logo=github)](https://github.com/llaurentino)
 ![Visitor Count](https://komarev.com/ghpvc/?username=llaurentino&color=blueviolet&style=for-the-badge)
@@ -12,7 +12,7 @@
 
 ### 🎓 Sobre mim
 
-- 📍 Poços de Caldas, MG — Estudante de Computação no **IFSULDEMINAS**
+- 📍 Poços de Caldas, MG — Estudante de Informática no **IFSULDEMINAS**
 - 💻 Membro do **SKYBYTE**, projeto de extensão que criou um portal educacional gratuito de informática
 - 🌱 Aprendendo na prática através de projetos reais
 - 🎯 Curioso por natureza, topo qualquer desafio novo que apareça pelo caminho
@@ -58,6 +58,14 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llaurentino&theme=radical)
 
 </div>
+
+### 🎮 Pac-Man nas minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
