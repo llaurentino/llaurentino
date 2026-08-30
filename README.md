@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzI5d29yZXI1bDBqc3l5eXpscjNyZW1qYnZxOWh3YXh1N3g5dHZyZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Era7aEMrYBvyg/200.webp" width="500" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmdicHlvOGJmNmdlOGFydjZ6eGN4N3Y5Z3B1aGRyZmV3Z2N0YWoxZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.webp" width="700" />
 
 </div>
 
