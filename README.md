@@ -10,6 +10,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🎓 Sobre mim
 
 - 📍 Poços de Caldas, MG — Estudante de Informática no **IFSULDEMINAS**
@@ -17,11 +21,14 @@
 - 🌱 Aprendendo na prática através de projetos reais
 - 🎯 Curioso por natureza, topo qualquer desafio novo que apareça pelo caminho
 
-<div align="center">
+</td>
+<td width="40%">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVtbHkxdGl1ajdvMm9nbnd3d3lxMjY1NjRkeDByN2oxbjJkb2dvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PJvvewo5mTtXW/giphy.gif" width="900" height="250" style="object-fit: cover;" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVtbHkxdGl1ajdvMm9nbnd3d3lxMjY1NjRkeDByN2oxbjJkb2dvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PJvvewo5mTtXW/giphy.gif" width="100%" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,13 +44,6 @@
 
 ---
 
-### 🎮 Pac-Man nas minhas contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph.svg">
-</picture>
 ### 🎮 Pac-Man nas minhas contribuições
 
 <picture>
