@@ -44,7 +44,7 @@
 
 ---
 
-### 🎮 Pac-Man nas minhas contribuições
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llaurentino/llaurentino/output/pacman-contribution-graph-dark.svg">
